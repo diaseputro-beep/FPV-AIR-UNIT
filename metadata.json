@@ -1,0 +1,6 @@
+{
+  "name": "FPV Air Unit",
+  "description": "FPV Video Transmitter compatible with OpenHD Ground Station, using Camera2, MediaCodec, and UDP streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
